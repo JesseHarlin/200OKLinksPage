@@ -235,6 +235,7 @@ ul {
 li {
     font: 200 20px/1.5 Helvetica, Verdana, sans-serif;
     padding:10px;
+    white-space: nowrap;
 }
 li:last-child {
     border: none;
@@ -256,6 +257,7 @@ li a:hover {
     font-size: 75px;
     background: #f6f6f6;
     white-space: nowrap;
+    border-radius:3px;
 }
 .linkslist {
     width:1024;
