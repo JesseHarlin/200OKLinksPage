@@ -240,6 +240,7 @@ li:last-child {
     border: none;
 }
 li a {
+     white-space: nowrap;
     font-size: 30px;
     text-decoration: none;
     color: #000;
@@ -257,7 +258,7 @@ li a:hover {
 }
 .linkslist {
     width:960;
-    white-space: nowrap;
+   
     float:none;
     text-align:center;
     padding:10px;
