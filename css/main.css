@@ -256,7 +256,8 @@ li a:hover {
     background: #f6f6f6;
 }
 .linkslist {
-    width:800px;
+    width:960;
+    white-space: nowrap;
     float:none;
     text-align:center;
     padding:10px;
