@@ -253,11 +253,12 @@ li a {
     transition: font-size 0.3s ease, background-color 0.3s ease;
 }
 li a:hover {
-    font-size: 90px;
+    font-size: 75px;
     background: #f6f6f6;
+    white-space: nowrap;
 }
 .linkslist {
-    width:960;
+    width:1024;
    
     float:none;
     text-align:center;
