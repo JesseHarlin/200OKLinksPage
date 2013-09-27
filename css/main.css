@@ -258,6 +258,8 @@ li a:hover {
     background: #f6f6f6;
     white-space: nowrap;
     border-radius:3px;
+    text-transform:full-width;
+    
 }
 .linkslist {
     width:1024;
